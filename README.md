@@ -6,7 +6,7 @@
 
 ### クラスの宣言 
 ```
-> cvtetr = JPN_year_converter()
+> cvter = JPN_year_converter()
 ```
 
 ### 和暦 -> 西暦
