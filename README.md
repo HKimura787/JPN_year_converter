@@ -4,9 +4,17 @@
 
 ## 使い方
 
+### インストール
+
+```
+! pip install git+https://github.com/HKimura787/JPN_year_converter.git
+```
+
 ### クラスの宣言 
 ```
-> cvter = JPN_year_converter()
+> import JPN_year_converter
+
+> cvter = JPN_year_converter.JPN_year_converter()
 ```
 
 ### 和暦 -> 西暦
