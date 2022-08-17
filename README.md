@@ -9,7 +9,7 @@
 > cvtetr = JPN_year_converter()
 ```
 
-### 和暦➡西暦
+### 和暦 -> 西暦
 ```
 > cvter.warekiYear2ADYear('令和4年')
 ```
@@ -30,7 +30,7 @@
 
 などの様式で指定できます。
 
-# 西暦➡和暦
+### 西暦 -> 和暦
 ```
 > cvter.ADYear2warekiYear(2022)
 ```
