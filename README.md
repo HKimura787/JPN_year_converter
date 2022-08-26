@@ -48,9 +48,9 @@
 R4
 ```
 
-変数`kanji`を`TRUE`にすると日本語が返されます。
+変数`kanji`を`True`にすると日本語が返されます。
 ```
-> cvter.ADYear2warekiYear(2022, kanji = TRUE)
+> cvter.ADYear2warekiYear(2022, kanji = True)
 ```
 
 出力
